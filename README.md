@@ -16,4 +16,4 @@ Materials :
     - [ADC Module](https://www.amazon.com/Converter-Programmable-Amplifier-Development-Raspberry/dp/B07TGB6KF8/ref=sr_1_5?dchild=1&keywords=adc+module&qid=1598636682&sr=8-5) x1 (x2 Pack!)
     - [Jumper Wires](https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_3?dchild=1&keywords=jumper+wires&qid=1598636986&sr=8-3)
   - Optional :
-    - [Breadboard T-Type Extention](https://www.amazon.com/Kuman-Expansion-Raspberry-Solderless-Breadboard/dp/B074DSMPYD/ref=sr_1_8?dchild=1&keywords=breadboard+extension&qid=1597765374&sr=8-8) x1 (Comes with Mini Breadboard + Jumper Wires)
+    - [Breadboard T-Type Extention](https://www.amazon.com/Kuman-Expansion-Raspberry-Solderless-Breadboard/dp/B074DSMPYD/ref=sr_1_8?dchild=1&keywords=breadboard+extension&qid=1597765374&sr=8-8) x1 (Comes with Mini Breadboard + Jumper Wires!)
