@@ -1,6 +1,6 @@
 # Raspberry Pi Auto Mouse
 
-## Important!
+## IMPORTANT!
 
 For this project you will need to install a couple modules.  One of the modules needed is already given in the "Modules" folder of this repository.  Make sure you read and follow the instructions given in the "Directions.txt" file in the "Modules" directory.  To install the other modules, make sure you watch the youtube video I made for this project [here](https://www.youtube.com/channel/UCKoQohlSLnq11GT_oJ6BcYg?view_as=subscriber).
 
